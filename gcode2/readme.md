@@ -5,3 +5,5 @@ in gcode2.py at line 47 bezier.cspsubdiv(csp_list,.1)  ... change .1 to 1 if you
 put gcode2.inx and gcode2.py in C:\Users\YOUR_NAME_ADMIN\AppData\Roaming\inkscape\extensions(after need to restart Inkscape)
 
 in same folder will autosave file gcode ... the gcode will be rewrite automatically
+
+If your path have Translate ... you need remove translate or another other commands for result real values gcode.
